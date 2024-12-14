@@ -1,8 +1,4 @@
 # Surgical-VQLA: Transformer with Gated Vision-Language Embedding for Visual Question Localized-Answering in Robotic Surgery
-
-| [**arXiv**](https://arxiv.org/abs/2305.11692) | [**Paper**](https://ieeexplore.ieee.org/iel7/10160211/10160212/10160403.pdf) |
-|:------------------------------------------:|:----------------------------------------------------:|
-
 ---
 
 ## Abstract
